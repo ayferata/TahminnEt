@@ -8,7 +8,6 @@ public class Main {
         Random rand = new Random();
         int number = rand.nextInt(100);
        
-
         Scanner input = new Scanner(System.in);
         int right = 0;
         int selected;
